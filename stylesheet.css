@@ -1,12 +1,16 @@
+body{
+  background="http://wallpapercave.com/wp/GrumP0h.jpg"
+}
 #button{
-	border: 2px solid #000000;
+  border: 2px solid #000000;
 	float:left;
 	position: relative;
 	left: 229px;
-	bottom: -20px;
+	bottom: -30px;
 	border-radius: 5px;
-	background-color: #cc0323;
+	background-color: #FF0;
 	height: 30px;
 	width: 150px;
+  padding: 20px;
 	
 }
