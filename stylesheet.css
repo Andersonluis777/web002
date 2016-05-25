@@ -8,9 +8,9 @@ img {
 p {
 	text-align: center;
 	font-family: Garamond, serif;
-	font-size: 26px;
-	color:red;
-
+	font-size: 22px;
+	color: red;
+}
 
 div {
 	border-radius: 5px;
@@ -24,8 +24,9 @@ div {
 
 a {
 	text-decoration: none;
-	color: red;
+	color: #3D59AB;
 	font-family: Verdana, sans-serif;
+	color:red;
 }
 
 span {
