@@ -1,17 +1,34 @@
-body{
- <body background= "https://images7.alphacoders.com/319/319933.jpg">		   
- 		<p style="margin-left: 150">
-  }
-#button{
-  border: 2px solid #000000;
-	float:left;
-	position: relative;
-	left: 229px;
-	bottom: -30px;
+img {
+	display: block;
+	height: 100px;
+	width: 300px;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+div {
 	border-radius: 5px;
-	background-color: #FF0;
-	height: 30px;
-	width: 150px;
-  padding: 20px;
-	
+	border: 2px solid #6495ED;
+	background-color: blue;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: red;
+	font-family: Verdana, sans-serif;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
 }
