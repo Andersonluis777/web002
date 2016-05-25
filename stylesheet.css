@@ -19,6 +19,8 @@ p {
 	color: red;
 	margin-top: 250px;
 	text-align:center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
 }
 
 div {
